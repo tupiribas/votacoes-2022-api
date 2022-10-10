@@ -1,1 +1,2 @@
 FLASK_APP=apirest.py
+FLASK_ENV=development
