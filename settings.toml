@@ -1,0 +1,10 @@
+[default]
+    TITLE="Rest-Api | Votação 2022"
+    EXTENSIONS = [
+        "votacoes_2022.blueprints.webui",
+        "votacoes_2022.blueprints.restapi"
+    ]
+
+[development]
+
+[production]
